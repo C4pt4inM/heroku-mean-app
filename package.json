@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my another try for mean stack app",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3",
+    "morgan": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C4pt4inM/new-mean-app.git"
+  },
+  "author": "C4pt4inM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C4pt4inM/new-mean-app/issues"
+  },
+  "homepage": "https://github.com/C4pt4inM/new-mean-app#readme"
+}
